@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="" align="center">
+</div>
 
-<!--
-**mauroeltugor/mauroeltugor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋
 
-Here are some ideas to get you started:
+### About Me
+I am Mauricio Celis, a passionate Software Developer dedicated to continuously improving my skills in the technology industry. I have strong knowledge in CSS, HTML, JavaScript, and React. My ability to learn quickly, interpersonal skills, and passion for problem-solving enable me to collaborate effectively in teams and provide creative solutions. I have developed personal projects in my public repository to showcase my practical skills. I am actively seeking opportunities to grow and make a meaningful contribution in the tech industry as a Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React, JavaScript, Css, Html, Java
+- 🌱 I’m currently learning TypeScript, NodeJs, Docker
+- 📫 How to reach me: andrux430@gmail.com
+- 😄 Pronouns: Mauro
+
+### Contact
+- Email: andrux430@gmail.com ✉️📧
+- LinkedIn: https://www.linkedin.com/in/mauro-celis-859225267/ 💼🔗
+
+### Thank you for visiting my profile!
+I appreciate your time for checking out my GitHub profile. Feel free to explore my repositories and contributions. I hope you find something interesting and useful! 😊🔍
+
+
