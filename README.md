@@ -14,7 +14,8 @@ I am Mauricio Celis, a passionate Software Developer dedicated to continuously i
 
 ### Contact
 - Email: andrux430@gmail.com ✉️📧
-- LinkedIn: https://www.linkedin.com/in/mauro-celis-859225267/ 💼🔗
+- LinkedIn: https://www.linkedin.com/in/maurocelisreyes/ 💼🔗
+- Website: https://final-portfolio-amber-tau.vercel.app/
 
 ### Thank you for visiting my profile!
 I appreciate your time for checking out my GitHub profile. Feel free to explore my repositories and contributions. I hope you find something interesting and useful! 😊🔍
