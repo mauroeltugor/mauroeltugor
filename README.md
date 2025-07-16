@@ -5,10 +5,10 @@
 ### Hello! 👋
 
 ### About Me
-I am Mauricio Celis, a passionate Software Developer dedicated to continuously improving my skills in the technology industry. I have strong knowledge in CSS, HTML, JavaScript, and React. My ability to learn quickly, interpersonal skills, and passion for problem-solving enable me to collaborate effectively in teams and provide creative solutions. I have developed personal projects in my public repository to showcase my practical skills. I am actively seeking opportunities to grow and make a meaningful contribution in the tech industry as a Software Developer.
+I am Mauricio Celis, a passionate Software Developer dedicated to continuously improving my skills in the technology industry. I have strong knowledge in java, JavaScript, and React. My ability to learn quickly, interpersonal skills, and passion for problem-solving enable me to collaborate effectively in teams and provide creative solutions. I have developed personal projects in my public repository to showcase my practical skills. I am actively seeking opportunities to grow and make a meaningful contribution in the tech industry as a Software Developer.
 
-- 🔭 I’m currently working on React, JavaScript, Css, Html, Java
-- 🌱 I’m currently learning TypeScript, NodeJs, Docker
+- 🔭 I’m currently working on React, JavaScript, Php, Java
+- 🌱 I’m currently learning TypeScript, NodeJs, Docker, Adobe Workfront Fusion
 - 📫 How to reach me: andrux430@gmail.com
 - 😄 Pronouns: Mauro
 
